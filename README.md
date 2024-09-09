@@ -47,3 +47,7 @@ In VSCode, switch to the debugging view and hit "Run". A dialog box will show up
 - Q: Can this be extended to other architectures besides Aarch64?
 
     A: Yes, if QEmu and gdb-multiarch support the architecture.
+
+- Q: Can I use this in my project?
+
+    A: Yes, absolutely.
